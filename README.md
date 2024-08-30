@@ -5,7 +5,7 @@
 <pre>
     💼 Carbigdata • QA Intern • Software Engineer
     📖 FIAP • Software Engineering • 2/4
-    💻 System programming languages • Web Development 
+    💻 Web Development • React • Java
     🎮 Healthy Lifestyle • Gym • Code • Games
     🐾 Thomas Shelby 🐕
 </pre>
