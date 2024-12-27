@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&height=55&lines=%E0%B1%A8%E0%A7%8E+hello+i'm+lucy%2C+a+tech+mage+girl+%E2%99%A1" width="70%" />
 <br><br>
 <pre>
-    💼 Carbigdata • QA Intern • Software Engineer
+    💼 Bradesco • Data Analyst Intern • Software Engineer
     📖 FIAP • Software Engineering • 2/4
     💻 Web Development • React • Java
     🎮 Healthy Lifestyle • Gym • Code • Games
