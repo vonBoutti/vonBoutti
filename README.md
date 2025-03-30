@@ -7,7 +7,7 @@
     📖 FIAP • Software Engineering • 3/4
     💻 Web Development • React • SQL • Python
     🎮 Healthy Lifestyle • Gym • Code • Games
-    🐾 Thomas Shelby 🐕
+    🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
