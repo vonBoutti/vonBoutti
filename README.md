@@ -6,7 +6,7 @@
     💼 Bradesco • Data Analyst Intern • Software Engineer
     📖 FIAP • Software Engineering • 3/4
     💻 Web Development • React • SQL • Python
-    🎮 Healthy Lifestyle • Gym • Code • Games
+    🎮 Cars • Gym • Code • Games
     🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
