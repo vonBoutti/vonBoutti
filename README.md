@@ -10,8 +10,7 @@
     🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVnMzdlYmtxZGQzOGs2OHZ4MmJuNDVtbTcxcTQyNGFjMmNsbWN2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6doKYocbv1VdsNfM5w/giphy.gif" height="40" />
-<img src="https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/29800/1705608430_NOGOODRACING.png&width=600&height=600&quality=90&format=auto&fit=pad" height="40" />
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXJsMWpua291d2lmODVlbHMzNDVkdDh1d2RsanUzeWs3Z2d5aG5rZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eh3RB417mSs7oglMsy/giphy.gif" height="70" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/lucyboutti)
