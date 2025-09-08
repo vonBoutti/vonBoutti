@@ -1,12 +1,12 @@
 <div align="center">
-<img src="https://wallpapercave.com/wp/wp13427298.jpg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&height=55&lines=%E0%B1%A8%E0%A7%8E+hello+i'm+lucy%2C+a+tech+mage+girl+%E2%99%A1" width="70%" />
+<img src="https://wallpapers.com/images/hd/rx-7-against-the-flag-of-japan-jdm-anime-tvevpdc95r17o2kk.jpg" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=450&height=55&lines=%E0%B1%A8%E0%A7%8E+hello+i'm+lucy%2C+a+tech+drifter+girl+%E2%99%A1" width="70%" />
 <br><br>
 <pre>
     💼 Bradesco • Data Analyst Intern • Software Engineer
     📖 FIAP • Software Engineering • 3/4
     💻 Web Development • React • SQL • Python
-    🎮 Cars • Gym • Code • Games
+    🏎️ Cars • Gym • Code • Games
     🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
