@@ -10,7 +10,8 @@
     🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://giphy.com/stickers/DriftShopoff-car-racing-driftshop-6doKYocbv1VdsNfM5w" height="40" />
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspireuplift.com%2FNo-Good-Racing%2Fiu%2F15101416%3Fsrsltid%3DAfmBOoqTlTAuxFoQZPwY6NfJuscpuzs4irdlXJqjcnqQuhpFKrpBWel4&psig=AOvVaw1M-Hgq88hRBNtHG_9rcuC5&ust=1757456849586000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj4nOGbyo8DFQAAAAAdAAAAABAi" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/lucyboutti)
