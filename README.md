@@ -10,8 +10,8 @@
     🐾 Thomas Shelby 🐕 Apolo 🐈
 </pre>
 <br><br>
-<img src="https://giphy.com/stickers/DriftShopoff-car-racing-driftshop-6doKYocbv1VdsNfM5w" height="40" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.inspireuplift.com%2FNo-Good-Racing%2Fiu%2F15101416%3Fsrsltid%3DAfmBOoqTlTAuxFoQZPwY6NfJuscpuzs4irdlXJqjcnqQuhpFKrpBWel4&psig=AOvVaw1M-Hgq88hRBNtHG_9rcuC5&ust=1757456849586000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCOj4nOGbyo8DFQAAAAAdAAAAABAi" height="40" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmVnMzdlYmtxZGQzOGs2OHZ4MmJuNDVtbTcxcTQyNGFjMmNsbWN2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6doKYocbv1VdsNfM5w/giphy.gif" height="40" />
+<img src="https://www.inspireuplift.com/resizer/?image=https://cdn.inspireuplift.com/uploads/images/seller_products/29800/1705608430_NOGOODRACING.png&width=600&height=600&quality=90&format=auto&fit=pad" height="40" />
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/lucyboutti)
